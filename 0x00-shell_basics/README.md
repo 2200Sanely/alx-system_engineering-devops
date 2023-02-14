@@ -5,3 +5,4 @@ Display current dir contents in long fomat
 Displaying hidden files
 List files with conditions
 Create directory inside directory
+move file from one directory to another
