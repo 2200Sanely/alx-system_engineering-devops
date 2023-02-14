@@ -10,3 +10,4 @@ deleting file
 Deleting directory
 Changing current dir
 files hidden in directory in long format
+Symbolic link
