@@ -7,3 +7,4 @@ List files with conditions
 Create directory inside directory
 move file from one directory to another
 deleting file
+Deleting directory
