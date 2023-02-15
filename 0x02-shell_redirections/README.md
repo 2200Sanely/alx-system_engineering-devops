@@ -4,4 +4,4 @@
 3- Script Displaying content of two files
 4- Script for displaying the last ten lines of a file
 5- Script for displaying the firts 10 lines of a file
-
+6- Script for displaing the 3rd line of a file
