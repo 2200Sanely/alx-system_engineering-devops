@@ -13,3 +13,4 @@
 12- Script to find 10 newest files
 13-  a script that takes a list of words as input and prints only words that appear exactly once.
 14-A script for find a pattern "root"
+15- A script for find a pattern "bin"
