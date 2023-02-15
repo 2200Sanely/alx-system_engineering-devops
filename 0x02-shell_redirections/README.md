@@ -3,3 +3,5 @@
 2-Script for displaying content of /ect/paaswd file
 3- Script Displaying content of two files
 4- Script for displaying the last ten lines of a file
+5- Script for displaying the firts 10 lines of a file
+
