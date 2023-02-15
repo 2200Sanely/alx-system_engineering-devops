@@ -5,3 +5,4 @@
 4-Script for creating empty file
 5-Script for changing files permissions to be executable
 6-Script for multiple permissions
+7-Script for giving everybody execute permission
