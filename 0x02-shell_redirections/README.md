@@ -14,4 +14,5 @@
 13-  a script that takes a list of words as input and prints only words that appear exactly once.
 14-A script for find a pattern "root"
 15- A script for find a pattern "bin"
-16- A scrit for displaying lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+16- A script for displaying lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+17- A sript for displaying all the lines in the file /etc/passwd that do not contain the pattern “bin”.
