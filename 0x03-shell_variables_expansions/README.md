@@ -9,3 +9,5 @@
 8- script that prints the result of the addition of 128 with the value stored in the environment variable
 9- script that prints the result of POWER divided by DIVIDE
 10- script that displays the result of BREATH to the power LOVE
+11- script that converts a number from base 2 to base 10.
+
