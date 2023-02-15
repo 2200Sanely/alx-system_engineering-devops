@@ -5,3 +5,4 @@
 4- Script for displaying the last ten lines of a file
 5- Script for displaying the firts 10 lines of a file
 6- Script for displaing the 3rd line of a file
+7-a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
