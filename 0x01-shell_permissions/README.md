@@ -7,3 +7,4 @@
 6-Script for multiple permissions
 7-Script for giving everybody execute permission
 8-Script for only other users having permissions
+9-Script for permmissions
