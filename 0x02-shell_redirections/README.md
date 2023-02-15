@@ -11,3 +11,4 @@
 10-A script to remove all files with a js. extension
 11- A script to count number of directories and subdirectories in current dir
 12- Script to find 10 newest files
+13-  a script that takes a list of words as input and prints only words that appear exactly once.
