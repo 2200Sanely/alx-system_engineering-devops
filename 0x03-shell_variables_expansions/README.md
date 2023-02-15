@@ -8,3 +8,4 @@
 7- script that creates a new global variable.
 8- script that prints the result of the addition of 128 with the value stored in the environment variable
 9- script that prints the result of POWER divided by DIVIDE
+10- script that displays the result of BREATH to the power LOVE
