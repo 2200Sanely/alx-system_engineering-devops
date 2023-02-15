@@ -6,3 +6,4 @@
 5-Script for changing files permissions to be executable
 6-Script for multiple permissions
 7-Script for giving everybody execute permission
+8-Script for only other users having permissions
