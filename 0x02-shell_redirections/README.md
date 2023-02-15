@@ -10,3 +10,4 @@
 9- A script that duplicates the last line of a file
 10-A script to remove all files with a js. extension
 11- A script to count number of directories and subdirectories in current dir
+12- Script to find 10 newest files
