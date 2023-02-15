@@ -9,3 +9,4 @@
 8-Script for only other users having permissions
 9-Script for permmissions
 0-SCript fpr referencing permissions from another file
+11-Script for adding execute permissions for subdirectories of the current directory
